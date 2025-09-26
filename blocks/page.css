@@ -1,0 +1,42 @@
+.page {
+  max-width: 1280px;
+  min-height: 2008px;
+  height: 100vh;
+  margin: 0 auto;
+  font-family: "inter", arial, sans-serif;
+  background-color: #2a2c2f;
+  color: #ffffff;
+}
+.content {
+}
+
+.lead {
+  max-width: 83.5%;
+  max-height: 985px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.lead__title {
+}
+
+.lead__subtitle {
+}
+
+.lead__image {
+}
+
+.intro {
+}
+.intro__title {
+}
+.intro__text {
+}
+
+.intro__quote {
+}
+.intro__text_bottom {
+}
