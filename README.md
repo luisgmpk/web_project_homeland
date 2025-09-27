@@ -14,3 +14,4 @@ Tecnologias y tecnicas:
 Html, css, posicionamiento, flexbox, importacion de fuentes, enlace de diferentes paginas de estilos, metodologia de nomenclatura BEM, interpretacion de proyecto desde diseño figma.
 
 Enlace a GithubPages:
+https://luisgmpk.github.io/web_project_homeland/

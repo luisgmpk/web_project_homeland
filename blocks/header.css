@@ -35,7 +35,9 @@
 }
 
 .header__content_image {
-  width: 990px;
+  width: 100%;
+  max-width: 990px;
+  display: block;
   margin: auto;
   filter: grayscale(1);
 }
