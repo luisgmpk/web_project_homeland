@@ -45,7 +45,7 @@
     font-size: 4vw;
   }
 
-  ..header__content-subtitle {
+  .header__content-subtitle {
     font-size: 1.8vw;
   }
 }
