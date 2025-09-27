@@ -40,42 +40,28 @@
   filter: grayscale(1);
 }
 
-@media (max-width: 1024px) {
+@media screen and (min-width: 320px) and (max-width: 544px) {
+  .header__logo {
+    max-width: 190px;
+    padding-bottom: 50px;
+  }
+
   .header__content-title {
-    font-size: 4vw;
+    max-width: 220px;
+    font-size: 40px;
+    line-height: 1;
   }
 
   .header__content-subtitle {
-    font-size: 1.8vw;
+    max-width: 290px;
+    font-size: 16px;
   }
 }
 
-@media (max-width: 544px) {
+@media screen and (min-width: 545px) and (max-width: 1024px) {
   .header__content-title {
-    font-size: 7vw;
-  }
-
-  .header__content-subtitle {
-    font-size: 3.5vw;
-  }
-}
-
-@media (max-width: 1024px) {
-  .header {
-    margin-bottom: 10vh;
-  }
-
-  .header__title {
-    font-size: 1.5vw;
-  }
-}
-
-@media (max-width: 544px) {
-  .header {
-    margin-bottom: 12vh;
-  }
-
-  .header__title {
-    font-size: 3vw;
+    max-width: 530px;
+    font-size: 75px;
+    line-height: 1;
   }
 }
