@@ -5,14 +5,12 @@
   color: #ccc;
 }
 
-/* Tablet */
 @media (max-width: 1024px) {
   .footer {
     font-size: 1.5vw;
   }
 }
 
-/* Móvil */
 @media (max-width: 544px) {
   .footer {
     font-size: 3vw;

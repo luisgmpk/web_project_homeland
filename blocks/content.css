@@ -1,11 +1,11 @@
 .intro {
   display: flex;
   flex-direction: column;
-  max-width: 607px;
+  max-width: 800px;
   max-height: 830px;
   column-gap: 25px;
-  width: 64.84%; /* equivale a 830px sobre 1280px */
-  height: 30.22%; /* equivale a 607px sobre 2008px */
+  width: 80%;
+  height: 30.22%;
 }
 
 .intro__title {
@@ -28,7 +28,6 @@
   align-self: flex-end;
 }
 
-/* Tablet */
 @media (max-width: 1024px) {
   .intro__title {
     font-size: 2.5vw;
@@ -40,7 +39,6 @@
   }
 }
 
-/* Móvil */
 @media (max-width: 544px) {
   .intro__title {
     font-size: 5vw;
