@@ -1,8 +1,14 @@
+@font-face {
+  font-family: "Inter", sans-serif;
+  src: url("./fonts/InterVariable-Italic.ttf") format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("./fonts/InterVariable-Italic.ttf") format("truetype");
+  font-style: italic;
+}
 :root {
   font-family: "Inter", sans-serif;
-}
-@supports (font-variation-settings: normal) {
-  :root {
-    font-family: "Inter var", sans-serif;
-  }
 }
