@@ -31,7 +31,7 @@
   right: 6px;
 }
 
-.intro__text_bottom {
+.intro__description {
   text-align: left;
   font-size: 16px;
   line-height: 1.6;
@@ -52,7 +52,7 @@
   .intro__text {
     line-height: 1.1;
   }
-  .intro__text_bottom {
+  .intro__description {
     line-height: 1.1;
   }
 }
