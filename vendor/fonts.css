@@ -1,13 +1,13 @@
 @font-face {
-  font-family: "Inter", sans-serif;
-  src: url("./fonts/InterVariable-Italic.ttf") format("truetype");
+  font-family: "Inter-Regular", sans-serif;
+  src: url("./fonts/Inter-Regular.ttf") format("truetype");
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Inter";
-  src: url("./fonts/InterVariable-Italic.ttf") format("truetype");
-  font-style: italic;
+  font-family: "Inter-Black";
+  src: url("./fonts/Inter-Black.ttf") format("truetype");
+  font-style: bold;
 }
 :root {
   font-family: "Inter", sans-serif;
