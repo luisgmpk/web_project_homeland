@@ -11,7 +11,7 @@ aqui te mostraremos una galeria de Imagenes junto con un comentario o verso por 
 
 Tecnologias y tecnicas:
 
-Html, css, posicionamiento, flexbox, importacion de fuentes, enlace de diferentes paginas de estilos, metodologia de nomenclatura BEM, Responsividad de elementos y @medias, interpretacion de proyecto desde diseño figma.
+Html, css, posicionamiento, flexbox, importacion de fuentes, enlace de diferentes paginas de estilos,utilizacion de diplay grid,color gradient, metodologia de nomenclatura BEM, Responsividad de elementos y @medias, interpretacion de proyecto desde diseño figma.
 
 Enlace a GithubPages:
 https://luisgmpk.github.io/web_project_homeland/
